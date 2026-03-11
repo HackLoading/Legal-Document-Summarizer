@@ -1,0 +1,14 @@
+# Core ML / NLP
+torch==2.2.2
+transformers>=4.38.0
+peft>=0.10.0
+accelerate>=0.27.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# Web framework
+streamlit>=1.32.0
+
+# PDF extraction
+pdfplumber
+pypdf
